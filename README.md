@@ -1,8 +1,13 @@
-# React + Vite
+# Projeto de Teste com Framer Motion e React
+Este projeto é um exemplo simples que demonstra como utilizar o Framer Motion com React, seguindo o tutorial disponível no YouTube.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tutorial
+Você pode seguir o tutorial completo aqui:
+- [Link](https://www.youtube.com/watch?v=znbCa4Rr054&list=PLA4qBVt61k3Phpwt7uqaptIg9NYZ5aNu_&index=2)
 
-Currently, two official plugins are available:
+## Descrição
+- Este projeto configura uma aplicação React básica que utiliza a biblioteca Framer Motion para adicionar animações. O tutorial cobre a instalação do Framer Motion e a criação de animações simples.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Recursos Utilizados
+- React
+- Framer Motion
